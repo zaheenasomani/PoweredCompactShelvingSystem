@@ -1,0 +1,4 @@
+21/1 aisleLock 1
+30/1 aisleLock 1
+70/1 Stop 1
+190/1 onReset 1
