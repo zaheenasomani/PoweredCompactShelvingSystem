@@ -1,0 +1,6 @@
+10 1 moveLeft 1
+70 1 reset 2
+150 1 walk_in 3
+170 1 moveRight 4
+195 1 walk_out 5
+225 1 reset 6
