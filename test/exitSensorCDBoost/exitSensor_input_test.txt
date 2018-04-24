@@ -1,0 +1,7 @@
+8 1 walk_out 1
+26 1 walk_out 1
+65 1 walk_out 1
+90 1 walk_out 1
+128 1 walk_out 1
+146 1 walk_out 1
+180 1 walk_out 1
