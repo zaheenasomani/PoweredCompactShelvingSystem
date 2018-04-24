@@ -1,0 +1,6 @@
+10 1 incr 1
+20 1 moveLeft 1
+30 1 moveLeft 2
+70 1 decr 2
+90 1 decr 2
+125 1 moveRight 2
